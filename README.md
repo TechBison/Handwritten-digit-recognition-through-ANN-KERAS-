@@ -10,7 +10,7 @@ Input data is feed forward (forward propogation) and Errors are computed and it 
   
   2.Pandas
   
-  3.Matploylib
+  3.Matplotlib
   
   4.Tensorflow
   
